@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "id": "update_003",
-  "title": "NEW UPDATE",
-  "message": "App mein ek new feature add kiya gaya hai."
+  "id": "update_004",
+  "title": "TEST NOTIFICATION",
+  "message": "Ye notification test hai."
 }
