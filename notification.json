@@ -1,5 +1,5 @@
 {
   "enabled": true,
-  "title": "New Leak Available",
-  "message": "NOTIFICATION TEST_1"
+  "title": "TEST NOTIFICATION",
+  "message": "NOTIFICATION_TEST"
 }
