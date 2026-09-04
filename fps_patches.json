@@ -1,17 +1,7 @@
 {
-  "GL": {
-    "file": "game_patch_4.5.0.21398_GL.pak"
-  },
-  "KR": {
-    "file": "game_patch_4.5.0.21398_KR.pak"
-  },
-  "BGMI": {
-    "file": "game_patch_4.5.0.21398_BGMI.pak"
-  },
-  "VN": {
-    "file": "game_patch_4.5.0.21398_VN.pak"
-  },
-  "TW": {
-    "file": "game_patch_4.5.0.21398_TW.pak"
-  }
+  "GL": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_GL.pak",
+  "KR": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_KR.pak",
+  "BGMI": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_BGMI.pak",
+  "VN": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_VN.pak",
+  "TW": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_TW.pak"
 }
