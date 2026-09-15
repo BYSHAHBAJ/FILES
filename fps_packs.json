@@ -16,6 +16,30 @@
         "fileName": "game_patch_4.6.0.21565.pak",
         "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_GL.pak"
       }
+    ],
+        "TAIWAN": [
+      {
+        "name": "India FPS Pack",
+        "version": "4.5.0",
+        "fileName": "game_patch_4.5.0.21413.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+      }
+    ],
+        "KOREA": [
+      {
+        "name": "India FPS Pack",
+        "version": "4.5.0",
+        "fileName": "game_patch_4.5.0.21413.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+      }
+    ],
+        "VIETNAM": [
+      {
+        "name": "India FPS Pack",
+        "version": "4.5.0",
+        "fileName": "game_patch_4.5.0.21413.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+      }
     ]
   }
 }
