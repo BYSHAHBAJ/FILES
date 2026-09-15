@@ -3,9 +3,9 @@
     "INDIA": [
       {
         "name": "India FPS Pack",
-        "version": "4.5.0",
-        "fileName": "game_patch_4.5.0.21413.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+        "version": "4.6.0",
+        "fileName": "game_patch_4.6.0.21565.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_BGMI.pak"
       }
     ],
 
@@ -19,26 +19,26 @@
     ],
         "TAIWAN": [
       {
-        "name": "India FPS Pack",
-        "version": "4.5.0",
-        "fileName": "game_patch_4.5.0.21413.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+        "name": "TW FPS Pack",
+        "version": "4.6.0",
+        "fileName": "game_patch_4.6.0.21565.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_TW.pak"
       }
     ],
         "KOREA": [
       {
-        "name": "India FPS Pack",
-        "version": "4.5.0",
-        "fileName": "game_patch_4.5.0.21413.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+        "name": "KR FPS Pack",
+        "version": "4.6.0",
+        "fileName": "game_patch_4.6.0.21565.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_KR.pak"
       }
     ],
         "VIETNAM": [
       {
-        "name": "India FPS Pack",
-        "version": "4.5.0",
-        "fileName": "game_patch_4.5.0.21413.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+        "name": "VN FPS Pack",
+        "version": "4.6.0",
+        "fileName": "game_patch_4.6.0.21565.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"
       }
     ]
   }
