@@ -1,7 +1,11 @@
 {
   "INDIA": {
     "leaks": [
-      {
+    ]
+  },
+  "GLOBAL": {
+    "leaks": [
+          {
         "title": "PRIZE PATH & LUCKY SPIN",
         "subtitle": "WORK ONLY IN BGMI (Make Sure To Select INDIA)",
         "description": "Open the game and see for yourself how OPM PRIZE PATH & LUCKY SPIN skins look in the game.",
@@ -25,10 +29,8 @@
         "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/1.pak",
         "fileName": "game_patch_4.6.0.21558.pak"
       }
+    
     ]
-  },
-  "GLOBAL": {
-    "leaks": []
   },
   "KOREA": {
     "leaks": []
