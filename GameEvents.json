@@ -29,8 +29,14 @@
   },
   "GLOBAL": {
     "leaks": [
-          
-    
+        {
+        "title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "WORK ONLY IN BGMI (Make Sure To Select INDIA)",
+        "description": "Open the game and see for yourself how OPM PRIZE PATH & LUCKY SPIN skins look in the game.",
+        "date": "BGMI - 21 SEPTEMBER 2026\nPUBGM - 20 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      },
     ]
   },
   "KOREA": {
