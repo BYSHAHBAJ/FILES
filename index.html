@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>FPS BOOSTER</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#101014;color:#fff;text-align:center;padding:48px 20px}
+  .box{max-width:520px;margin:auto;background:#19191f;border-radius:18px;padding:28px}
+  button{width:100%;padding:15px;border:0;border-radius:12px;background:#7c4dff;color:#fff;font-weight:700;font-size:16px;margin-top:12px}
+  #fallback{display:none}
+</style>
+</head>
+<body>
+<div class="box">
+  <h1>FPS BOOSTER</h1>
+  <p id="status">Opening FPS BOOSTER…</p>
+  <div id="fallback">
+    <p>FPS BOOSTER is not installed. Download the latest version.</p>
+    <button id="download">DOWNLOAD LATEST APK</button>
+  </div>
+</div>
+<script>
+// Change only this URL when you publish a new APK.
+const APK_URL = "https://github.com/BYSHAHBAJ/APPOPEN/releases/download/120FPS/FPS.Booster_4.6.0.apk";
+const APP_URL = "fpsbooster://open";
+
+const status = document.getElementById('status');
+const fallback = document.getElementById('fallback');
+const download = document.getElementById('download');
+let leftPage = false;
+
+function showFallback(){
+  if(leftPage) return;
+  fallback.style.display='block';
+  status.textContent='If the app did not open, FPS BOOSTER may not be installed.';
+}
+
+// Android/browser policy does not allow a webpage to silently install an APK.
+// If the app is installed, this opens it. If not, the timeout exposes the APK
+// download button. The Android installer will still require the user's approval.
+try { window.location.href = APP_URL; } catch(e) {}
+setTimeout(showFallback, 1800);
+
+download.addEventListener('click', function(){
+  window.location.href = APK_URL;
+});
+</script>
+</body>
+</html>
