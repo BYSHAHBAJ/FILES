@@ -2,6 +2,14 @@
   "INDIA": {
     "leaks": [
     {
+        "title": "PREMIUM CRATE SKINS",
+        "subtitle": "BGMI",
+        "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_IND.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+    {
         "title": "PDP SKINS",
         "subtitle": "WORK ONLY IN BGMI (Make Sure To Select INDIA)",
         "description": "Open the game and see for yourself how PDP skins look in the game.",
@@ -29,6 +37,14 @@
   },
   "GLOBAL": {
     "leaks": [
+    {
+        "title": "PREMIUM CRATE SKINS",
+        "subtitle": "GLOBAL",
+        "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
         {
         "title": "PDP SKINS",
         "subtitle": " (Make Sure To Select GLOBAL)",
