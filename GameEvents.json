@@ -138,9 +138,89 @@
       ]
   },
   "TAIWAN": {
-    "leaks": []
+    "leaks": [
+    {
+        "title": "ONE-PUNCH-MAN SKINS",
+        "subtitle": "TAIWAN",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+    {
+        "title": "PREMIUM CRATE SKINS",
+        "subtitle": "TAIWAN",
+        "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+        {
+        "title": "PDP SKINS",
+        "subtitle": " (Make Sure To Select TAIWAN)",
+        "description": "Open the game and see for yourself how PDP SKINS look in the game.",
+        "date": "28 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PDP_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+      {
+        "title": "PLATINUM SOULMEISTER GILT SPIN",
+        "subtitle": "WORK ONLY IN TAIWAN (Make Sure To Select TAIWAN)",
+        "description": "Open the game and see for yourself how GILT SPIN skins look in the game.",
+        "date": "25 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PLAYERDATA_GL.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      },
+      {
+        "title": "OLD X-SUITS & OTHER SKINS",
+        "subtitle": "TAIWAN",
+        "description": "USE MAIN ID ✅ BUT FIRST PLAY 2-3 MATCHES ON YOUR FAKE ACCOUNT",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }
+      ]
   },
   "VIETNAM": {
-    "leaks": []
+    "leaks": [
+    {
+        "title": "ONE-PUNCH-MAN SKINS",
+        "subtitle": "VIETNAM",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+    {
+        "title": "PREMIUM CRATE SKINS",
+        "subtitle": "VIETNAM",
+        "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+        {
+        "title": "PDP SKINS",
+        "subtitle": " (Make Sure To Select VIETNAM)",
+        "description": "Open the game and see for yourself how PDP SKINS look in the game.",
+        "date": "28 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PDP_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+      {
+        "title": "PLATINUM SOULMEISTER GILT SPIN",
+        "subtitle": "WORK ONLY IN VIETNAM (Make Sure To Select VIETNAM)",
+        "description": "Open the game and see for yourself how GILT SPIN skins look in the game.",
+        "date": "25 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PLAYERDATA_GL.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"
+      },
+      {
+        "title": "OLD X-SUITS & OTHER SKINS",
+        "subtitle": "VIETNAM",
+        "description": "USE MAIN ID ✅ BUT FIRST PLAY 2-3 MATCHES ON YOUR FAKE ACCOUNT",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }
+      ]
   }
 }
