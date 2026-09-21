@@ -2,6 +2,14 @@
   "INDIA": {
     "leaks": [
     {
+        "title": "ONE-PUNCH-MAN SKINS",
+        "subtitle": "INDIA",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+    {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "BGMI",
         "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
@@ -44,6 +52,14 @@
   },
   "GLOBAL": {
     "leaks": [
+    {
+        "title": "ONE-PUNCH-MAN SKINS",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
     {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "GLOBAL",
