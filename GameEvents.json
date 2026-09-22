@@ -226,17 +226,16 @@
             ]
       }
   },
-  "BETA": {
-    "leaks": [
-      {
-        "title": "ONE-PUNCH-MAN SKINS",
-        "image": "",
-        "subtitle": "BETA",
-        "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
-        "date": "SOON",
-        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
-        "fileName": "game_patch_4.6.1.21575.pak"
-      }
-    ]
-  }
+"BETA": {
+  "leaks": [
+    {
+      "title": "OLD X-SUITS & OTHER SKINS",
+      "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/IMG_20260921_173817_564.jpg",
+      "subtitle": "BETA",
+      "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
+      "date": "SOON",
+      "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
+      "fileName": "game_patch_4.6.1.21575.pak"
+    }
+  ]
 }
