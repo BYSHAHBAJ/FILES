@@ -1,7 +1,7 @@
 {
   "INDIA": {
     "leaks": [
-    {
+      {
         "title": "ONE-PUNCH-MAN SKINS",
         "subtitle": "INDIA",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -9,7 +9,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "BGMI",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -17,7 +17,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_IND.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PDP SKINS",
         "subtitle": "WORK ONLY IN BGMI (Make Sure To Select INDIA)",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -52,7 +52,7 @@
   },
   "GLOBAL": {
     "leaks": [
-    {
+      {
         "title": "ONE-PUNCH-MAN SKINS",
         "subtitle": "GLOBAL",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -60,7 +60,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "GLOBAL",
         "description": "Open the game and see for yourself how PREMIUM CRATE skins look in the game.",
@@ -68,7 +68,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-        {
+      {
         "title": "PDP SKINS",
         "subtitle": " (Make Sure To Select GLOBAL)",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -95,8 +95,7 @@
   },
   "KOREA": {
     "leaks": [
-    
-    {
+      {
         "title": "ONE-PUNCH-MAN SKINS",
         "subtitle": "KOREA",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -104,7 +103,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "KOREA",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -112,7 +111,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-        {
+      {
         "title": "PDP SKINS",
         "subtitle": " (Make Sure To Select KOREA)",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -135,11 +134,11 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       }
-      ]
+    ]
   },
   "TAIWAN": {
     "leaks": [
-    {
+      {
         "title": "ONE-PUNCH-MAN SKINS",
         "subtitle": "TAIWAN",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -147,7 +146,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "TAIWAN",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -155,7 +154,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-        {
+      {
         "title": "PDP SKINS",
         "subtitle": " (Make Sure To Select TAIWAN)",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -178,11 +177,11 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       }
-      ]
+    ]
   },
   "VIETNAM": {
     "leaks": [
-    {
+      {
         "title": "ONE-PUNCH-MAN SKINS",
         "image": "",
         "subtitle": "VIETNAM",
@@ -191,7 +190,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/OPM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-    {
+      {
         "title": "PREMIUM CRATE SKINS",
         "subtitle": "VIETNAM",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -199,7 +198,7 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/PREMIUM_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-        {
+      {
         "title": "PDP SKINS",
         "subtitle": " (Make Sure To Select VIETNAM)",
         "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
@@ -223,19 +222,19 @@
         "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       }
-            ]
-      }
+    ]
   },
-"BETA": {
-  "leaks": [
-    {
-      "title": "OLD X-SUITS & OTHER SKINS",
-      "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/IMG_20260921_173817_564.jpg",
-      "subtitle": "BETA",
-      "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
-      "date": "SOON",
-      "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
-      "fileName": "game_patch_4.6.1.21575.pak"
-    }
-  ]
+  "BETA": {
+    "leaks": [
+      {
+        "title": "OLD X-SUITS & OTHER SKINS",
+        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/IMG_20260921_173817_564.jpg",
+        "subtitle": "BETA",
+        "description": "ONLY FOR TESTING - DON'T PLAY MAIN ID",
+        "date": "SOON",
+        "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/XSUIT_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      }
+    ]
+  }
 }
