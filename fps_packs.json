@@ -4,24 +4,24 @@
       {
         "name": "India FPS Pack",
         "version": "4.6.0",
-        "fileName": "game_patch_4.6.0.21565.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_BGMI.pak"
+        "fileName": "game_patch_4.6.1.21575.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/BGMI.pak"
       }
     ],
     "GLOBAL": [
       {
         "name": "Global FPS Pack",
         "version": "4.6.0",
-        "fileName": "game_patch_4.6.0.21565.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_GL.pak"
+        "fileName": "game_patch_4.6.1.21575.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/ALL_PUBG.pak"
       }
     ],
     "TAIWAN": [
       {
         "name": "TW FPS Pack",
         "version": "4.6.0",
-        "fileName": "game_patch_4.6.0.21565.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_TW.pak"
+        "fileName": "game_patch_4.6.1.21575.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/ALL_PUBG.pak"
       }
     ],
     "KOREA": [
@@ -29,23 +29,23 @@
         "name": "KR FPS Pack",
         "version": "4.6.0",
         "fileName": "game_patch_4.6.1.21575.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/c53cfa14c83b0a36fba51d1596cc40f1958e4f92/game_patch_4.6.1.21575_KR.pak"
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/ALL_PUBG.pak"
       }
     ],
     "VIETNAM": [
       {
         "name": "VN FPS Pack",
         "version": "4.6.0",
-        "fileName": "game_patch_4.6.0.21565.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"
+        "fileName": "game_patch_4.6.1.21575.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/ALL_PUBG.pak"
       }
     ],
     "BETA": [
       {
         "name": "Beta FPS Pack",
         "version": "4.6.0",
-        "fileName": "game_patch_4.6.0.21565.pak",
-        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"
+        "fileName": "game_patch_4.6.1.21575.pak",
+        "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/b1a3f823dc734e0bf953dbc8083963bcc37dbb4f/ALL_PUBG.pak"
       }
     ]
   }
