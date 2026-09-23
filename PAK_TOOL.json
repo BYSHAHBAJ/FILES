@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "targets": [
+    "GSC_FPS.lua",
+    "GraphicsNew",
+    "IG4600"
+  ],
+  "games": [
+    {
+      "id": "BGMI",
+      "displayName": "BGMI",
+      "packageName": "com.pubg.imobile",
+      "paks": [
+        {
+          "name": "BGMI 4.6.0",
+          "fileName": "game_patch_4.6.0.21565_BGMI.pak",
+          "path": "game_patch_4.6.0.21565_BGMI.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_BGMI.pak"
+        },
+        {
+          "name": "BGMI 4.5.0",
+          "fileName": "game_patch_4.5.0.21398_BGMI.pak",
+          "path": "game_patch_4.5.0.21398_BGMI.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_BGMI.pak"
+        }
+      ]
+    },
+    {
+      "id": "GLOBAL",
+      "displayName": "GLOBAL",
+      "packageName": "com.tencent.ig",
+      "paks": [
+        {
+          "name": "GLOBAL 4.6.0",
+          "fileName": "game_patch_4.6.0.21565_GL.pak",
+          "path": "game_patch_4.6.0.21565_GL.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_GL.pak"
+        },
+        {
+          "name": "GLOBAL 4.5.0",
+          "fileName": "game_patch_4.5.0.21398_GL.pak",
+          "path": "game_patch_4.5.0.21398_GL.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_GL.pak"
+        }
+      ]
+    },
+    {
+      "id": "KOREA",
+      "displayName": "KOREA",
+      "packageName": "com.pubg.krmobile",
+      "paks": [
+        {
+          "name": "KOREA 4.6.0",
+          "fileName": "game_patch_4.6.0.21565_KR.pak",
+          "path": "game_patch_4.6.0.21565_KR.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_KR.pak"
+        },
+        {
+          "name": "KOREA 4.5.0",
+          "fileName": "game_patch_4.5.0.21398_KR.pak",
+          "path": "game_patch_4.5.0.21398_KR.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_KR.pak"
+        }
+      ]
+    },
+    {
+      "id": "VIETNAM",
+      "displayName": "VIETNAM",
+      "packageName": "com.vng.pubgmobile",
+      "paks": [
+        {
+          "name": "VIETNAM 4.6.0",
+          "fileName": "game_patch_4.6.0.21565_VN.pak",
+          "path": "game_patch_4.6.0.21565_VN.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"
+        },
+        {
+          "name": "VIETNAM 4.5.0",
+          "fileName": "game_patch_4.5.0.21398_VN.pak",
+          "path": "game_patch_4.5.0.21398_VN.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_VN.pak"
+        }
+      ]
+    },
+    {
+      "id": "TAIWAN",
+      "displayName": "TAIWAN",
+      "packageName": "com.rekoo.pubgm",
+      "paks": [
+        {
+          "name": "TAIWAN 4.6.0",
+          "fileName": "game_patch_4.6.0.21565_TW.pak",
+          "path": "game_patch_4.6.0.21565_TW.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_TW.pak"
+        },
+        {
+          "name": "TAIWAN 4.5.0",
+          "fileName": "game_patch_4.5.0.21398_TW.pak",
+          "path": "game_patch_4.5.0.21398_TW.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_TW.pak"
+        }
+      ]
+    },
+    {
+      "id": "BETA",
+      "displayName": "BETA",
+      "packageName": "com.tencent.igce",
+      "paks": [
+        {
+          "name": "BETA / 4.5.0.21413",
+          "fileName": "game_patch_4.5.0.21413.pak",
+          "path": "game_patch_4.5.0.21413.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+        }
+      ]
+    }
+  ]
+}
