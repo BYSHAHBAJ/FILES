@@ -1,9 +1,7 @@
 {
   "version": 1,
   "targets": [
-    "GSC_FPS.lua",
-    "GraphicsNew",
-    "IG4600"
+    "Client120FPSMapping.uexp"
   ],
   "games": [
     {
