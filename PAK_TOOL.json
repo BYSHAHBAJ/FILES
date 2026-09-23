@@ -12,10 +12,10 @@
       "packageName": "com.pubg.imobile",
       "paks": [
         {
-          "name": "BGMI 4.6.0",
-          "fileName": "game_patch_4.6.0.21565_BGMI.pak",
-          "path": "game_patch_4.6.0.21565_BGMI.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_BGMI.pak"
+          "name": "BGMI 4.6.0_TEST",
+          "fileName": "game_patch_4.6.1.21583.pak",
+          "path": "game_patch_4.6.1.21583.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/417a326ab6de45c20a2bbd917304bf242d1e593b/game_patch_4.6.1.21583.pak"
         },
         {
           "name": "BGMI 4.5.0",
