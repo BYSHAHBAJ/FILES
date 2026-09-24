@@ -49,9 +49,9 @@
       "paks": [
         {
           "name": "KOREA 4.6.0",
-          "fileName": "game_patch_4.6.0.21565_KR.pak",
+          "fileName": "game_patch_4.6.1.22579.pak",
           "path": "game_patch_4.6.0.21565_KR.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_KR.pak"
+          "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/game_patch_4.6.1.22579.pak"
         },
         {
           "name": "KOREA 4.5.0",
