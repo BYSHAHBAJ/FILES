@@ -14,12 +14,6 @@
           "fileName": "game_patch_4.6.1.21583.pak",
           "path": "game_patch_4.6.1.21583.pak",
           "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/417a326ab6de45c20a2bbd917304bf242d1e593b/game_patch_4.6.1.21583.pak"
-        },
-        {
-          "name": "BGMI 4.5.0",
-          "fileName": "game_patch_4.5.0.21398_BGMI.pak",
-          "path": "game_patch_4.5.0.21398_BGMI.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_BGMI.pak"
         }
       ]
     },
@@ -29,16 +23,10 @@
       "packageName": "com.tencent.ig",
       "paks": [
         {
-          "name": "GLOBAL 4.6.0",
-          "fileName": "game_patch_4.6.0.21565_GL.pak",
+          "name": "game_patch_4.6.1.21579.pak",
+          "fileName": "game_patch_4.6.1.21579.pak",
           "path": "game_patch_4.6.0.21565_GL.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_GL.pak"
-        },
-        {
-          "name": "GLOBAL 4.5.0",
-          "fileName": "game_patch_4.5.0.21398_GL.pak",
-          "path": "game_patch_4.5.0.21398_GL.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_GL.pak"
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.1.21579.pak"
         }
       ]
     },
@@ -52,12 +40,6 @@
           "fileName": "game_patch_4.6.1.22579.pak",
           "path": "game_patch_4.6.0.21565_KR.pak",
           "url": "https://github.com/BYSHAHBAJ/FILES/releases/download/FILES/game_patch_4.6.1.22579.pak"
-        },
-        {
-          "name": "KOREA 4.5.0",
-          "fileName": "game_patch_4.5.0.21398_KR.pak",
-          "path": "game_patch_4.5.0.21398_KR.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_KR.pak"
         }
       ]
     },
@@ -67,16 +49,10 @@
       "packageName": "com.vng.pubgmobile",
       "paks": [
         {
-          "name": "VIETNAM 4.6.0",
+/*          "name": "VIETNAM 4.6.0",
           "fileName": "game_patch_4.6.0.21565_VN.pak",
           "path": "game_patch_4.6.0.21565_VN.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"
-        },
-        {
-          "name": "VIETNAM 4.5.0",
-          "fileName": "game_patch_4.5.0.21398_VN.pak",
-          "path": "game_patch_4.5.0.21398_VN.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_VN.pak"
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"*/
         }
       ]
     },
@@ -86,7 +62,7 @@
       "packageName": "com.rekoo.pubgm",
       "paks": [
         {
-          "name": "TAIWAN 4.6.0",
+/*          "name": "TAIWAN 4.6.0",
           "fileName": "game_patch_4.6.0.21565_TW.pak",
           "path": "game_patch_4.6.0.21565_TW.pak",
           "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_TW.pak"
@@ -95,7 +71,7 @@
           "name": "TAIWAN 4.5.0",
           "fileName": "game_patch_4.5.0.21398_TW.pak",
           "path": "game_patch_4.5.0.21398_TW.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_TW.pak"
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_TW.pak"*/
         }
       ]
     },
@@ -105,10 +81,10 @@
       "packageName": "com.tencent.igce",
       "paks": [
         {
-          "name": "BETA / 4.5.0.21413",
+/*          "name": "BETA / 4.5.0.21413",
           "fileName": "game_patch_4.5.0.21413.pak",
           "path": "game_patch_4.5.0.21413.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"*/
         }
       ]
     }
