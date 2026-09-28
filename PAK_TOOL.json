@@ -47,56 +47,25 @@
       "id": "VIETNAM",
       "displayName": "VIETNAM",
       "packageName": "com.vng.pubgmobile",
-      "paks": [
-        {
-/*          "name": "VIETNAM 4.6.0",
-          "fileName": "game_patch_4.6.0.21565_VN.pak",
-          "path": "game_patch_4.6.0.21565_VN.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_VN.pak"*/
-        }
-      ]
+      "paks": []
     },
     {
       "id": "TAIWAN",
       "displayName": "TAIWAN",
       "packageName": "com.rekoo.pubgm",
-      "paks": [
-        {
-/*          "name": "TAIWAN 4.6.0",
-          "fileName": "game_patch_4.6.0.21565_TW.pak",
-          "path": "game_patch_4.6.0.21565_TW.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.0.21565_TW.pak"
-        },
-        {
-          "name": "TAIWAN 4.5.0",
-          "fileName": "game_patch_4.5.0.21398_TW.pak",
-          "path": "game_patch_4.5.0.21398_TW.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21398_TW.pak"*/
-        }
-      ]
+      "paks": []
     },
     {
       "id": "BETA",
       "displayName": "BETA",
       "packageName": "com.tencent.igce",
-      "paks": [
-        {
-/*          "name": "BETA / 4.5.0.21413",
-          "fileName": "game_patch_4.5.0.21413.pak",
-          "path": "game_patch_4.5.0.21413.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"*/
-        }
-      ]
+      "paks": []
     },
-    "id": "FLASH",
-      "displayName": "PUBGM PLASH",
+    {
+      "id": "FLASH",
+      "displayName": "PUBGM FLASH",
       "packageName": "com.tencent.igfit",
-      "paks": [
-        {
-/*          "name": "BETA / 4.5.0.21413",
-          "fileName": "game_patch_4.5.0.21413.pak",
-          "path": "game_patch_4.5.0.21413.pak",
-          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"*/
-          }
+      "paks": []
+    }
   ]
 }
