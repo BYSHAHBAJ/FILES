@@ -25,7 +25,7 @@
         {
           "name": "game_patch_4.6.1.21579.pak",
           "fileName": "game_patch_4.6.1.21579.pak",
-          "path": "game_patch_4.6.0.21565_GL.pak",
+          "path": "game_patch_4.6.1.21579.pak",
           "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.6.1.21579.pak"
         }
       ]
@@ -87,6 +87,16 @@
           "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"*/
         }
       ]
-    }
+    },
+    "id": "FLASH",
+      "displayName": "PUBGM PLASH",
+      "packageName": "com.tencent.igfit",
+      "paks": [
+        {
+/*          "name": "BETA / 4.5.0.21413",
+          "fileName": "game_patch_4.5.0.21413.pak",
+          "path": "game_patch_4.5.0.21413.pak",
+          "url": "https://raw.githubusercontent.com/BYSHAHBAJ/FILES/main/game_patch_4.5.0.21413.pak"*/
+          }
   ]
 }
