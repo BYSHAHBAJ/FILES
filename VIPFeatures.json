@@ -12,20 +12,6 @@
   "INDIA": {
     "leaks": [
       {
-        /*"title": "PRIZE PATH & LUCKY SPIN",
-        "subtitle": "INDIA",
-        "description": "Exclusive content.",
-        "date": "21 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM.sav",
-        "fileName": "game_patch_4.6.0.21567.pak"*/
-      },
-      {
-        /*"title": "PREMIUM CRATE",
-        "subtitle": "INDIA",
-        "description": "Exclusive content.",
-        "date": "21 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_IND.sav",
-        "fileName": "game_patch_4.6.1.21575.pak"*/
       }
     ]
   },
@@ -48,14 +34,6 @@
         "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/ALL_SKINS.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
       },
-      {
-        /*"title": "PRIZE PATH & LUCKY SPIN",
-        "subtitle": "GLOBAL",
-        "description": "Exclusive content.",
-        "date": "20 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM_GL.sav",
-        "fileName": "game_patch_4.6.0.21567.pak"*/
-      },    
     {
         "title": "PDP LUCKY SPIN SKINS",
         "subtitle": "GLOBAL",
@@ -71,14 +49,6 @@
         "date": "25 SEPTEMBER 2026",
         "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/GILT1_GL_FIXED.sav",
         "fileName": "game_patch_4.6.1.21575.pak"
-      },
-      {
-        /*"title": "PREMIUM CRATE",
-        "subtitle": "GLOBAL",
-        "description": "Exclusive content.",
-        "date": "21 SEPTEMBER 2026",
-        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_GL.sav",
-        "fileName": "game_patch_4.6.1.21575.pak"*/
       }
     ]
   },
