@@ -1,0 +1,138 @@
+{
+  "vip": {
+    "headerTitle": "VIP FEATURES",
+    "headerSubtitle": "EXCLUSIVE TOOLS & FEATURES",
+    "badge": "VIP",
+    "sectionTitle": "VIP FEATURES",
+    "headline": "Exclusive VIP content.",
+    "cardTitle": "VIP AREA",
+    "cardDescription": "Exclusive features."
+  },
+
+  "INDIA": {
+    "leaks": [
+      {
+        /*"title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "INDIA",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"*/
+      },
+      {
+        /*"title": "PREMIUM CRATE",
+        "subtitle": "INDIA",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_IND.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"*/
+      }
+    ]
+  },
+
+  "GLOBAL": {
+    "leaks": [
+    {
+        "title": "B.duck",
+        "subtitle": "GLOBAL",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/dmsm.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+    {
+        "title": "ALL V4.6 SKINS",
+        "subtitle": "GLOBAL",
+        "description": "DO NOT USE MAIN ID",
+        "date": "VIP",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/ALL_SKINS.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+      {
+        /*"title": "PRIZE PATH & LUCKY SPIN",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "20 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OPM_GL.sav",
+        "fileName": "game_patch_4.6.0.21567.pak"*/
+      },    
+    {
+        "title": "PDP LUCKY SPIN SKINS",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "28 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PDP.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },    
+      {
+        "title": "v4.6 GILT 1",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "25 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/GILT1_GL_FIXED.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"
+      },
+      {
+        /*"title": "PREMIUM CRATE",
+        "subtitle": "GLOBAL",
+        "description": "Exclusive content.",
+        "date": "21 SEPTEMBER 2026",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/PREMIUM_CRATE_GL.sav",
+        "fileName": "game_patch_4.6.1.21575.pak"*/
+      }
+    ]
+  },
+
+  "KOREA": {
+    "leaks": []
+  },
+
+  "TAIWAN": {
+    "leaks": []
+  },
+  
+  "VIETNAM": {
+    "leaks": []
+  },
+
+  "BETA": {
+    "leaks": [
+    {
+        "title": "AKM GLACIER SWITCH EFFECTS 💥🤟",
+        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "subtitle": "BETA",
+        "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
+        "date": "SOON",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/AKM_GLACIER_471.sav",
+        "fileName": "game_patch_4.7.1.21596.pak"
+      },
+      {
+        "title": "ALL SKINS 4.7.1 💥🤟",
+        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "subtitle": "BETA",
+        "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
+        "date": "SOON",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/NEW_SKINS_471.sav",
+        "fileName": "game_patch_4.7.1.21596.pak"
+      },
+      {
+        "title": "HD RESOURCES",
+        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "subtitle": "BETA",
+        "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
+        "date": "SOON",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/DOWNLOAD_HD_471.sav",
+        "fileName": "game_patch_4.7.1.21596.pak"
+      },
+      {
+        "title": "ALL OLD SKINS 4.7.1",
+        "image": "https://github.com/BYSHAHBAJ/FILES/releases/download/NEW/Screenshot_2026-09-25-00-13-51-60_99c04817c0de5652397fc8b56c3b3817.jpg",
+        "subtitle": "BETA",
+        "description": "SHARE YOUR FEEDBACK ON TELEGRAM",
+        "date": "Try Now",
+        "url": "https://github.com/BYSHAHBAJ/Devs/releases/download/FILES/OLD_SKINS_471.sav",
+        "fileName": "game_patch_4.7.1.21596.pak"
+      }
+    ]
+  }
+}
