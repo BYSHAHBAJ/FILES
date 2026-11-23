@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/mockup-*
+
+Sitemap: https://apnafpsbooster.com/sitemap.xml

@@ -1,0 +1,520 @@
+/* ==========================================================================
+   APNA FPS UNLOCKER - Bulletproof Multi-Theme & Cross-Platform Stylesheet
+   Optimized for Android (Mobile) & Windows (Desktop/Laptop)
+   Engineered for 120 FPS Zero-Lag Butter-Smooth Animations
+   ========================================================================== */
+
+/* Bandwidth-Optimized Google Fonts (Only Essential Weights + swap) */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=Rajdhani:wght@600;700&family=Inter:wght@400;600;700&display=swap');
+
+/* ==========================================================================
+   1. THEME DESIGN SYSTEM (Dark & Light Variables)
+   ========================================================================== */
+:root,
+[data-theme="dark"],
+.dark {
+  /* Dark Mode (Cyber eSports Gamer Theme) */
+  --bg-primary: #070A0F;
+  --bg-secondary: #0D121B;
+  --bg-card: #111722;
+  --bg-card-hover: #17202F;
+  --border-color: rgba(0, 229, 255, 0.16);
+  --border-glow: rgba(0, 255, 102, 0.35);
+
+  --accent-green: #00FF66;
+  --accent-cyan: #00E5FF;
+  --accent-glow: 0 0 25px rgba(0, 255, 102, 0.45);
+  --cyan-glow: 0 0 25px rgba(0, 229, 255, 0.45);
+
+  --text-primary: #FFFFFF;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  
+  --nav-bg: rgba(7, 10, 15, 0.92);
+  --footer-bg: #05070B;
+  --track-bg: rgba(0, 0, 0, 0.5);
+  --code-bg: rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="light"],
+.light {
+  /* Light Mode (Clean High-Contrast Tech) */
+  --bg-primary: #F8FAFC;
+  --bg-secondary: #EEF2F6;
+  --bg-card: #FFFFFF;
+  --bg-card-hover: #F1F5F9;
+  --border-color: rgba(15, 23, 42, 0.12);
+  --border-glow: rgba(16, 185, 129, 0.4);
+
+  --accent-green: #059669;
+  --accent-cyan: #0284C7;
+  --accent-glow: 0 4px 20px rgba(5, 150, 105, 0.25);
+  --cyan-glow: 0 4px 20px rgba(2, 132, 199, 0.25);
+
+  --text-primary: #0F172A;
+  --text-secondary: #334155;
+  --text-muted: #64748B;
+
+  --nav-bg: rgba(248, 250, 252, 0.94);
+  --footer-bg: #E2E8F0;
+  --track-bg: #E2E8F0;
+  --code-bg: #E2E8F0;
+}
+
+/* ==========================================================================
+   2. CORE GLOBAL STYLES
+   ========================================================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html, body {
+  background-color: var(--bg-primary) !important;
+  color: var(--text-primary) !important;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+  overflow-x: hidden;
+  min-height: 100vh;
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+.font-gaming {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.font-heading {
+  font-family: 'Rajdhani', sans-serif;
+}
+
+/* ==========================================================================
+   3. BULLETPROOF THEME UTILITIES
+   ========================================================================== */
+.theme-bg-primary {
+  background-color: var(--bg-primary) !important;
+}
+
+.theme-bg-secondary {
+  background-color: var(--bg-secondary) !important;
+}
+
+.theme-bg-card {
+  background-color: var(--bg-card) !important;
+}
+
+.theme-bg-nav {
+  background-color: var(--nav-bg) !important;
+}
+
+.theme-bg-footer {
+  background-color: var(--footer-bg) !important;
+}
+
+.theme-text-primary {
+  color: var(--text-primary) !important;
+}
+
+.theme-text-secondary {
+  color: var(--text-secondary) !important;
+}
+
+.theme-text-muted {
+  color: var(--text-muted) !important;
+}
+
+.theme-border {
+  border-color: var(--border-color) !important;
+}
+
+.hover-theme-card:hover {
+  background-color: var(--bg-card-hover) !important;
+}
+
+/* ==========================================================================
+   4. HARDWARE-ACCELERATED ZERO-LAG SCROLL REVEALS
+   ========================================================================== */
+.reveal {
+  opacity: 0;
+  transform: translate3d(0, 26px, 0);
+  will-change: opacity, transform;
+  transition: opacity 0.6s cubic-bezier(0.16, 1, 0.3, 1), transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.reveal.active {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+
+/* Stagger animation delays for high-end look */
+.delay-100 { transition-delay: 80ms; }
+.delay-200 { transition-delay: 160ms; }
+.delay-300 { transition-delay: 240ms; }
+.delay-400 { transition-delay: 320ms; }
+.delay-500 { transition-delay: 400ms; }
+
+/* Interactive Glassmorphism Cards */
+.glass-panel {
+  background: var(--bg-card) !important;
+  border: 1px solid var(--border-color) !important;
+  color: var(--text-primary) !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1), border-color 0.28s ease, box-shadow 0.28s ease;
+  will-change: transform;
+}
+
+.dark .glass-panel,
+[data-theme="dark"] .glass-panel {
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.glass-panel:hover {
+  background: var(--bg-card-hover) !important;
+  border-color: var(--accent-green) !important;
+  transform: translate3d(0, -6px, 0);
+  box-shadow: 0 15px 35px rgba(0, 255, 102, 0.2);
+}
+
+/* ==========================================================================
+   5. FLOATING & AMBIENT ANIMATIONS (60/120 FPS Smooth)
+   ========================================================================== */
+@keyframes floatGentle {
+  0%, 100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(0, -8px, 0);
+  }
+}
+
+.anim-float {
+  animation: floatGentle 4.5s ease-in-out infinite;
+  will-change: transform;
+}
+
+.anim-float-delay {
+  animation: floatGentle 4.5s ease-in-out 2.25s infinite;
+  will-change: transform;
+}
+
+/* Cyber Laser Shimmer Sweep across buttons */
+.btn-cyber-primary,
+.btn-cyber-cyan {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-cyber-primary::after,
+.btn-cyber-cyan::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -75%;
+  width: 50%;
+  height: 200%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+  transform: rotate(25deg);
+  pointer-events: none;
+  transition: none;
+}
+
+.btn-cyber-primary:hover::after,
+.btn-cyber-cyan:hover::after {
+  left: 130%;
+  transition: left 0.75s ease-in-out;
+}
+
+/* Button Base Styles */
+.btn-cyber-primary {
+  background: linear-gradient(135deg, #00FF66 0%, #00CC52 100%);
+  color: #05160C !important;
+  font-weight: 800;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.5px;
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(0, 255, 102, 0.5);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-cyber-primary:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 35px rgba(0, 255, 102, 0.85);
+  filter: brightness(1.08);
+}
+
+.btn-cyber-cyan {
+  background: linear-gradient(135deg, #00E5FF 0%, #0099FF 100%);
+  color: #031422 !important;
+  font-weight: 800;
+  font-family: 'Orbitron', sans-serif;
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(0, 229, 255, 0.4);
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-cyber-cyan:hover {
+  transform: scale(1.03);
+  box-shadow: 0 0 35px rgba(0, 229, 255, 0.75);
+}
+
+/* ==========================================================================
+   6. INTERACTIVE SIMULATOR (60 vs 120 FPS Demo)
+   ========================================================================== */
+.sim-btn {
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  border: 1.5px solid var(--border-color);
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 700;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  cursor: pointer;
+}
+
+.sim-btn:hover {
+  border-color: var(--accent-green);
+  color: var(--text-primary);
+  transform: translateY(-2px);
+}
+
+.sim-btn.active {
+  background: var(--accent-green) !important;
+  color: #000000 !important;
+  border-color: var(--accent-green) !important;
+  box-shadow: 0 0 20px rgba(0, 255, 102, 0.55);
+  transform: scale(1.05);
+}
+
+.sim-track {
+  width: 100%;
+  height: 48px;
+  background: var(--track-bg);
+  border-radius: 24px;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+}
+
+.sim-ball {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  background: radial-gradient(circle at 30% 30%, #FFFFFF, var(--accent-green));
+  box-shadow: 0 0 15px var(--accent-green);
+  will-change: transform;
+}
+
+/* ==========================================================================
+   7. GAMING DEVICE SCREEN FRAME (3D Perspective Ready)
+   ========================================================================== */
+.gaming-device-frame {
+  background: linear-gradient(180deg, #1E293B 0%, #0F172A 100%);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 25px 60px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s ease-out, box-shadow 0.2s ease-out;
+  transform-style: preserve-3d;
+  will-change: transform;
+}
+
+[data-theme="light"] .gaming-device-frame,
+.light .gaming-device-frame {
+  background: linear-gradient(180deg, #E2E8F0 0%, #CBD5E1 100%);
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  box-shadow: 0 20px 45px rgba(0, 0, 0, 0.12);
+}
+
+/* High-Tech CRT Scanline */
+@keyframes scanlineAnim {
+  0% { transform: translate3d(0, -100%, 0); }
+  100% { transform: translate3d(0, 800%, 0); }
+}
+
+.scanline-beam {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: linear-gradient(90deg, transparent, rgba(0, 255, 102, 0.35), transparent);
+  animation: scanlineAnim 4s linear infinite;
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+/* ==========================================================================
+   8. COMPARISON CARDS
+   ========================================================================== */
+.compare-card-bad {
+  background: rgba(239, 68, 68, 0.06) !important;
+  border: 1.5px solid rgba(239, 68, 68, 0.25) !important;
+  transition: transform 0.25s ease;
+}
+
+.compare-card-bad:hover {
+  transform: translate3d(0, -4px, 0);
+}
+
+[data-theme="light"] .compare-card-bad,
+.light .compare-card-bad {
+  background: #FEF2F2 !important;
+  border: 1.5px solid #FCA5A5 !important;
+}
+
+.compare-card-good {
+  background: rgba(16, 185, 129, 0.08) !important;
+  border: 1.5px solid rgba(16, 185, 129, 0.35) !important;
+  transition: transform 0.25s ease;
+}
+
+.compare-card-good:hover {
+  transform: translate3d(0, -4px, 0);
+}
+
+[data-theme="light"] .compare-card-good,
+.light .compare-card-good {
+  background: #ECFDF5 !important;
+  border: 1.5px solid #6EE7B7 !important;
+}
+
+/* ==========================================================================
+   9. PULSE & GLOW NOTIFICATIONS
+   ========================================================================== */
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 20px rgba(0, 255, 102, 0.4);
+  }
+  50% {
+    box-shadow: 0 0 40px rgba(0, 255, 102, 0.85);
+  }
+}
+
+.pulse-anim {
+  animation: pulseGlow 2.5s infinite;
+}
+
+/* Badges */
+.badge-neon {
+  background: rgba(0, 255, 102, 0.12);
+  border: 1px solid rgba(0, 255, 102, 0.35);
+  color: var(--accent-green) !important;
+}
+
+[data-theme="light"] .badge-neon,
+.light .badge-neon {
+  background: rgba(5, 150, 105, 0.1);
+  border: 1px solid rgba(5, 150, 105, 0.35);
+  color: #059669 !important;
+}
+
+.badge-cyan {
+  background: rgba(0, 229, 255, 0.12);
+  border: 1px solid rgba(0, 229, 255, 0.35);
+  color: var(--accent-cyan) !important;
+}
+
+[data-theme="light"] .badge-cyan,
+.light .badge-cyan {
+  background: rgba(2, 132, 199, 0.1);
+  border: 1px solid rgba(2, 132, 199, 0.35);
+  color: #0284C7 !important;
+}
+
+/* Toast Download Notification */
+.download-toast {
+  position: fixed;
+  top: 24px;
+  right: 24px;
+  z-index: 9999;
+  background: var(--bg-card);
+  border: 1.5px solid var(--accent-green);
+  box-shadow: 0 10px 40px rgba(0, 255, 102, 0.35);
+  color: var(--text-primary);
+  border-radius: 16px;
+  padding: 14px 20px;
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  transform: translate3d(120%, 0, 0);
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  pointer-events: none;
+}
+
+.download-toast.show {
+  transform: translate3d(0, 0, 0);
+}
+
+/* Sticky Download Bar for Mobile */
+.sticky-dl-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 50;
+  background: var(--nav-bg);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-top: 1px solid var(--border-color);
+  transform: translate3d(0, 120%, 0);
+  transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.sticky-dl-bar.show {
+  transform: translate3d(0, 0, 0);
+}
+
+/* Custom Scrollbar for Desktop */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-green);
+}
+
+/* Accessibility: Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Android Touch Targets */
+@media (max-width: 640px) {
+  button, a {
+    min-height: 44px;
+  }
+  .font-gaming {
+    letter-spacing: normal;
+  }
+  .sim-track {
+    height: 40px;
+  }
+  .sim-ball {
+    width: 26px;
+    height: 26px;
+    top: 6px;
+  }
+}
